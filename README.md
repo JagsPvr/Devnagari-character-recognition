@@ -1,0 +1,1 @@
+This project will sacn the image containing devnagari script and extract data and ducument it in pdf/txt file.
